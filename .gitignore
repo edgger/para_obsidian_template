@@ -1,0 +1,16 @@
+.DS_Store
+
+*.patch
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+*.diff
+*.log
+*.py
+
+.vscode
+
+.obsidian/workspace.json

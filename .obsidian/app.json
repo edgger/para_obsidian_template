@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "./_attachments",
+  "userIgnoreFilters": [
+    "10.Templates 🫥/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1.Inbox 📥",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
+}
