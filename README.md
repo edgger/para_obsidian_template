@@ -22,6 +22,9 @@
 * [Эффективное ведение дел или Obsidian + GTD](https://habr.com/ru/articles/743628/)
 * [GTD за 15 минут: прагматическое руководство](https://habr.com/ru/companies/wunderfund/articles/648663/)
 * [GTD. Мифы, ошибки, заблуждения](https://habr.com/ru/articles/123669/)
+* [Управление личными делами на базовом уровне](https://habr.com/ru/articles/719558/)
+
+![](https://habrastorage.org/getpro/habr/upload_files/a74/49f/3f8/a7449f3f8a3762a581e65fb68280edb8.png)
 
 # Теги задач
 
