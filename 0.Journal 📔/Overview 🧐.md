@@ -1,14 +1,14 @@
 ### 1. Do Now _(or drop)_
 ```tasks
 not done
-(due before today) OR (starts before today)
+(due before today) AND (starts before today)
 no tags
 ```
 
 ### 2. Do Today _(urgent)_
 ```tasks
 not done
-(due today) OR (scheduled today) OR (starts today)
+(due today) OR (scheduled today) AND (starts today)
 no tags
 ```
 
